@@ -1,0 +1,25 @@
+body{
+    background-color: #C1F8CF;
+}
+
+.laiterie{
+    border: 2px solid red;
+    margin-left: 10px;
+}
+h2{
+    font-size: 3em; font-weight: bold; color: #4FD3C4;
+    background-color: beige; text-align: center;
+
+
+}
+
+h3{
+    font-size: 3em; font-weight: bold; color: #4FD3C4;
+    background-color: beige; text-align: center;
+}
+.text{
+    background-color: rgba(0, 0, 0, 0.329); font-size: 1.5em;
+}
+p{
+    background-color: yellow; font-size: 1.5em;
+}
